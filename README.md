@@ -1,12 +1,12 @@
 # Try-Sarah-Tops-
-18 Wk Proj MSSA <br/>
+18 Wk Proj, MSSA Project Step 2 <br/>
 Alberto Herrera <br/>
 23 Jan 2021 <br/>
 MSSA CAD <br/>
-Project Step 2 <br/>
 
 
-“Try  Sarah Tops”
+
+**“Try  Sarah Tops”**
 “Try Sarah Tops” This website will provide a wide selection of tops including shirts, sweatshirts, and hoodies (small, medium, large, XL). 
 Our webiste allows for a personalized experience where customers will be able to select a black or white top and size of their choice.  In addition, customers will be able to select a letter from the alphabet and customize that letter with the color of their choice (red, blue, and yellow). 
 The homepage of the website will have an introduction of the company and instructions on what to do at this page. The homepage will include a “Create Account” button, and “Login” button.
