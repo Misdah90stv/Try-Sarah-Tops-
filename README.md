@@ -36,5 +36,11 @@ The final page will display text that says<br/>
 
 
 
+---
+
+
+[DataBase Diagram](TrySarahTops DataBase Diagram.pdf)
+
+
 
 
