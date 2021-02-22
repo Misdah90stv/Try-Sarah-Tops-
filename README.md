@@ -8,7 +8,7 @@ MSSA CAD <br/>
 *Introdution*<br/>
 __**“Try  Sarah Tops”**__ <br/>
 “Try Sarah Tops” This website will provide a wide selection of tops including shirts, sweatshirts, and hoodies (small, medium, large, XL). 
-Our webiste allows for a personalized experience where customers will be able to select a black or white top and size of their choice.  In addition, customers will be able to select a letter from the alphabet and customize that letter with the color of their choice (red, blue, and yellow). 
+Our webiste allows for a personalized experience where customers will be able to select a size of their choice.  In addition, customers will be able to select a letter from the alphabet and customize that letter with the color of their choice (red, blue, and yellow). 
 The homepage of the website will have an introduction of the company and instructions on what to do at this page. 
 
 *Organize*<br/>
@@ -19,7 +19,6 @@ If user selects “Login” button will lead to a page with two text boxes and o
   +	Email<br/>
   
 After login, the customer will click on a “OK” button and will lead to the next page. The next page will have multiple dropdown menus:<br/>
-  +	color of top (black or white), <br/>
   +	size selection of top (small, medium, large, XL)<br/>
   +	letter of alphabet (A-Z)<br/>
   +	color of the letter (red, blue, or yellow)<br/>
