@@ -30,6 +30,15 @@ The next page will be the payment page which will include text boxes:<br/>
   +	 Exp date of Card<br/>
   +	CVV code<br/>
   
+  
+The database will consist of tables: <br/>
+  +Employee<br/>
+  +Shirts<br/>
+  +Customers<br/>
+  +Orders<br/>
+  +Orderdetails<br/>
+  
+  
 The final page will display text that says<br/>
  **__"Your order has been fulfilled. A receipt has been sent your email"__**.
 
